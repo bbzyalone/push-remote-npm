@@ -1,6 +1,6 @@
 {
-  "name": "vue-ts-json-view",
-  "version": "1.0.4",
+  "name": "push-remote-npm",
+  "version": "1.0.1",
   "description": "这是一个测试库",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
